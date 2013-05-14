@@ -8,7 +8,7 @@ Cordova plugin to access the target build and version on an iOS project
 4. Link the CDVVersion.js file in your index.html with a script tag.
 
 # Usage
-There are two functions:
+There are two functions:   
 1. plugins.buildVersion.getVersion(Callback, ErrorCallback)   
 2. plugins.buildVersion.getBuild(Callback>, ErrorCallback)   
 
